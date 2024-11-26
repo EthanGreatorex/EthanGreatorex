@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my own website<br>🌱 I’m currently learning web development<br>⚡ Fun fact -> I like pineapple on pizza!
+🔭 I’m currently working on my own <a href="https://ethangreatorex.github.io/TerminalWebsiteV2/">website</a><br>🌱 I’m currently learning web development<br>⚡ Fun fact -> I like pineapple on pizza!
 
 # 📕 Knowledge:
 Im a beginner-medium in python and web development,
