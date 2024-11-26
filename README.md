@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/b807c32b-f431-4afd-afb1-0de435df3daf)
 
 # 💫 About Me:
-🔭 I’m currently working on my own <a href="https://ethangreatorex.github.io/TerminalWebsiteV2/">website</a><br>🌱 I’m currently learning web development<br>⚡ Fun fact -> I like pineapple on pizza!
+🔭 I’m currently working on my own <a href="https://ethangreatorex.github.io/TerminalWebsiteV2/" target="blank">website</a><br>🌱 I’m currently learning web development<br>⚡ Fun fact -> I like pineapple on pizza!
 
 # 📕 Knowledge:
 Im a beginner-medium in python and web development <br>
@@ -9,9 +9,9 @@ I have touched slightly on Flask and web scraping <br>
 I have used python for 4 years as of 2024
 
 # ⭐ My personal favourite projects:
-A webscraper using flask <a href="https://github.com/EthanGreatorex/EasyArticleFlaskAPP">➡️</a><br>
-My own website <a href="https://ethangreatorex.github.io/TerminalWebsiteV2">➡️</a><br>
-A keylogger using python <a href="https://github.com/EthanGreatorex/KeyLogger/tree/main">➡️</a>
+A webscraper using flask <a href="https://github.com/EthanGreatorex/EasyArticleFlaskAPP" target="blank">➡️</a><br>
+My own website <a href="https://ethangreatorex.github.io/TerminalWebsiteV2" target="blank">➡️</a><br>
+A keylogger using python <a href="https://github.com/EthanGreatorex/KeyLogger/tree/main" target="blank">➡️</a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ethan-greatorex-240983327/) 
