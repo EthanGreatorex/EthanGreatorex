@@ -4,9 +4,9 @@
 🔭 I’m currently working on my own <a href="https://ethangreatorex.github.io/TerminalWebsiteV2/" target="blank">website</a><br>🌱 I’m currently growing in web development & python<br>⚡ Fun fact -> I like pineapple on pizza!
 
 # 📕 Knowledge:
-Im an intermediate level programmer in python and js/html/css <br>
 I have touched slightly on Flask and web scraping <br>
-I have used python for 4 years as of 2024
+I have used python for 4 years as of 2024<br>
+I have been using Js/Html/Css for 2 years as of 2024
 
 # ⭐ My personal favourite projects:
 ### A webscraper using flask <a href="https://github.com/EthanGreatorex/EasyArticleFlaskAPP" target="blank">➡️</a><br>
