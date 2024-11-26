@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/b807c32b-f431-4afd-afb1-0de435df3daf)
+
 # 💫 About Me:
 🔭 I’m currently working on my own <a href="https://ethangreatorex.github.io/TerminalWebsiteV2/">website</a><br>🌱 I’m currently learning web development<br>⚡ Fun fact -> I like pineapple on pizza!
 
