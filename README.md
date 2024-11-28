@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/b807c32b-f431-4afd-afb1-0de435df3daf)
 
 # 💫 About Me:
-🔭 I’m currently working on my own <a href="https://ethangreatorex.github.io/TerminalWebsiteV2/" target="blank">website</a><br>🌱 I’m currently growing in web development & python<br>⚡ Fun fact -> I like pineapple on pizza!
+🔭 I’m currently working on my own <a href="https://ethangreatorex.github.io/EthanGreatorexPortfolio/" target="_blank">website</a><br>🌱 I’m currently growing in web development & python<br>⚡ Fun fact -> I like pineapple on pizza!
 
 # 📕 Knowledge:
 I have touched slightly on Flask and web scraping <br>
@@ -10,7 +10,7 @@ I have been using Js/Html/Css for 2 years as of 2024
 
 # ⭐ My personal favourite projects:
 ### A webscraper using flask <a href="https://github.com/EthanGreatorex/EasyArticleFlaskAPP" target="blank">➡️</a><br>
-- Main reason for using Flask was to take my <a href="https://github.com/EthanGreatorex/Tkinter" target="blank">Tkinter Python Easy Article app</a> and put it on the web<br>
+- Main reason for using Flask was to take my <a href="https://github.com/EthanGreatorex/Tkinter" target="_blank">Tkinter Python Easy Article app</a> and put it on the web<br>
 ### My own website <a href="https://ethangreatorex.github.io/TerminalWebsiteV2" target="blank">➡️</a><br>
 - I loved the idea of an old-style terminal animation website!<br>
 ### A keylogger using python <a href="https://github.com/EthanGreatorex/KeyLogger/tree/main" target="blank">➡️</a>
