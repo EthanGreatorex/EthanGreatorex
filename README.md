@@ -3,7 +3,7 @@
 # 💫 About Me:
 🔭 I’m currently working on my own <a href="https://ethangreatorex.github.io/EthanGreatorexPortfolio/" target="_blank">website</a><br>🌱 I’m currently growing in web development & python<br>⚡ Fun fact -> I like pineapple on pizza!
 
-## My website
+## 🚀 My website
 🚀 Check out my website to learn a bit more about me! 
 <a href="https://ethangreatorex.github.io/EthanGreatorexPortfolio/">Ethan Greatorex</a>
 
