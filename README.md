@@ -18,7 +18,9 @@ I have been using Js/Html/Css for 2 years as of 2024
 ### Terminal Website <a href="https://ethangreatorex.github.io/TerminalWebsiteV2" target="blank">➡️</a><br>
 - I loved the idea of an old-style terminal animation website!<br>
 ### A keylogger using python <a href="https://github.com/EthanGreatorex/KeyLogger/tree/main" target="blank">➡️</a>
-- I like to keep this one quiet... 
+- I like to keep this one quiet...
+### An image to ascii generator using streamlit <a href="https://ethan-greatorex-image-to-ascii.streamlit.app/" target="blank">➡️</a>
+- Streamlit has allowed me to make some fun projects!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ethan-greatorex-240983327/) 
