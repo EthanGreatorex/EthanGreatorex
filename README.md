@@ -20,7 +20,7 @@ I have been using Js/Html/Css for 2 years as of 2024
 - I loved the idea of an old-style terminal animation website!<br>
 ### A keylogger using python <a href="https://github.com/EthanGreatorex/KeyLogger/tree/main" target="blank">➡️</a>
 - I like to keep this one quiet...
-### An image to ascii generator using streamlit <a href="https://ethan-greatorex-image-to-ascii.streamlit.app/" target="blank">➡️</a>
+### An image to ascii generator using streamlit <a href="https://huggingface.co/spaces/EggGreatorex/Image-Ascii-Converter" target="blank">➡️</a>
 - Streamlit has allowed me to make some fun projects!
 
 ## 🌐 Socials:
