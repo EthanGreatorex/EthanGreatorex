@@ -18,8 +18,8 @@ I have been using Js/Html/Css for 2 years as of 2024
 - Main reason for using Flask was to take my <a href="https://github.com/EthanGreatorex/Tkinter" target="_blank">Tkinter Python Easy Article app</a> and put it on the web. This makes the application much more accessible<br>
 ### Terminal Website <a href="https://ethangreatorex.github.io/TerminalWebsiteV2" target="blank">➡️</a><br>
 - I loved the idea of an old-style terminal animation website!<br>
-### A keylogger using python <a href="https://github.com/EthanGreatorex/KeyLogger/tree/main" target="blank">➡️</a>
-- I like to keep this one quiet...
+### Cosmo Chat App <a href="https://huggingface.co/spaces/EggGreatorex/Cosmo-Chat-App" target="blank">➡️</a><br>
+- An AI chat app that allows for websites and Youtube videos to be given as context to the AI
 ### An image to ascii generator using streamlit <a href="https://huggingface.co/spaces/EggGreatorex/Image-Ascii-Converter" target="blank">➡️</a>
 - Streamlit has allowed me to make some fun projects!
 
