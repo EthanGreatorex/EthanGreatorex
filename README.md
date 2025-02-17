@@ -12,7 +12,7 @@ I have touched slightly on Flask and web scraping <br>
 I have used python for 4 years as of 2024<br>
 I have been using Js/Html/Css for 2 years as of 2024
 
-# ⭐ My personal favourite projects:
+# ⭐ My Personal Favourite Projects:
 **Click on the arrows to view the repo/live website!**
 ### Easy Article <a href="https://easy-article.onrender.com" target="blank">➡️</a><br>
 - Main reason for using Flask was to take my <a href="https://github.com/EthanGreatorex/Tkinter" target="_blank">Tkinter Python Easy Article app</a> and put it on the web. This makes the application much more accessible<br>
