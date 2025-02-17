@@ -20,7 +20,7 @@ I have been using Js/Html/Css for 2 years as of 2024
 - I loved the idea of an old-style terminal animation website!<br>
 ### Cosmo Chat App <a href="https://huggingface.co/spaces/EggGreatorex/Cosmo-Chat-App" target="blank">➡️</a><br>
 - An AI chat app that allows for websites and Youtube videos to be given as context to the AI
-### An image to ascii generator using streamlit <a href="https://huggingface.co/spaces/EggGreatorex/Image-Ascii-Converter" target="blank">➡️</a>
+### Image To Ascii Generator <a href="https://huggingface.co/spaces/EggGreatorex/Image-Ascii-Converter" target="blank">➡️</a>
 - Streamlit has allowed me to make some fun projects!
 
 ## 🌐 Socials:
