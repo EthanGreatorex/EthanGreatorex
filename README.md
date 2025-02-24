@@ -14,7 +14,7 @@ I have been using Js/Html/Css for 2 years as of 2024
 
 # ⭐ My Personal Favourite Projects:
 **Click on the arrows to view the repo/live website!**
-### Cosmo Chat App <a href="https://cosmo-chat-bot.streamlit.app/" target="blank">➡️</a><br>
+### Cosmo Chat App <a href="https://huggingface.co/spaces/EggGreatorex/Cosmo-Chat-App" target="blank">➡️</a><br>
 - Cosmo is an AI that allows you to provide Web URLs, Youtube Links and PDF files as context!
 - View the repository for the code here <a href='https://github.com/EthanGreatorex/Cosmo-Chat-Bot' target="blank">➡️</a><br>
 ### Easy Article <a href="https://easy-article.onrender.com" target="blank">➡️</a><br>
