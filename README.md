@@ -16,7 +16,7 @@ I have been using Js/Html/Css for 2 years as of 2024
 **Click on the arrows to view the repo/live website!**
 ### Cosmo Chat App <a href="https://cosmoai-v2z5.onrender.com" target="blank">➡️</a><br>
 - Cosmo is an AI that allows you to provide Web URLs, Youtube Links and PDF files as context!
-- View the repository for the code here <a href='https://github.com/EthanGreatorex/Cosmo-Chat-Bot' target="blank">➡️</a><br>
+- View the repository for the code here <a href='https://github.com/EthanGreatorex/CosmoAI' target="blank">➡️</a><br>
 ### Easy Article <a href="https://github.com/EthanGreatorex/EasyArticleFlaskAPP" target="blank">➡️</a><br>
 - Main reason for using Flask was to take my <a href="https://github.com/EthanGreatorex/Tkinter" target="_blank">Tkinter Python Easy Article app</a> and put it on the web. This makes the application much more accessible<br>
 ### Terminal Website <a href="https://ethangreatorex.github.io/TerminalWebsiteV2" target="blank">➡️</a><br>
