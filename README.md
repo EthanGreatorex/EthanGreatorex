@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/b807c32b-f431-4afd-afb1-0de435df3daf)
 
 # 💫 About Me:
-🔭 I’m currently working on my own <a href="https://ethangreatorex.github.io/EthanGreatorexPortfolio/" target="_blank">website</a><br>🌱 I’m currently growing in web development & python<br>⚡ Fun fact -> I like pineapple on pizza!
+🔭 I’m currently working on my own <a href="https://ethangreatorex.github.io/EthanGreatorexPortfolio/" target="_blank">website</a><br>🌱 I’m currently growing in web development & python<br>⚡ Fun fact -> I like pineapple on pizza! <br>🎵🏃‍♂️‍➡️ I enjoy listening to music  and running  in my free time!
 
 # 🚀 My website
 🚀 Check out my website to learn a bit more about me! 
