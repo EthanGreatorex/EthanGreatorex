@@ -22,7 +22,7 @@ I have been using Js/Html/Css for 2 years as of 2024
 - Main reason for using Flask was to take my <a href="https://github.com/EthanGreatorex/Tkinter" target="_blank">Tkinter Python Easy Article app</a> and put it on the web. This makes the application much more accessible<br>
 ### Terminal Website <a href="https://ethangreatorex.github.io/TerminalWebsiteV2" target="blank">➡️</a><br>
 - I loved the idea of an old-style terminal animation website!<br>
-### AI Movie Finder <a href=""https://github.com/EthanGreatorex/AIMovieFinder" target="blank">➡️</a>
+### AI Movie Finder <a href="https://github.com/EthanGreatorex/AIMovieFinder" target="blank">➡️</a>
 - A website to find movies based on a description!
 
 ## 🌐 Socials:
