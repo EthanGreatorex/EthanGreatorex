@@ -13,6 +13,7 @@
 I have touched slightly on Flask and web scraping <br>
 I have used python for 4 years as of 2024<br>
 I have been using Js/Html/Css for 2 years
+I have a foundational knowledge in React and have created multiple projects using it (e.g., my portfolio webite)
 
 # ⭐ My Personal Favourite Projects:
 **Click on the arrows to view the repo/live website!**
