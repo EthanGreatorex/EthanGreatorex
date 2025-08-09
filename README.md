@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on my own <a href="https://ethangreatorex.github.io/ReactPortfolio/" target="_blank">website</a><br>🌱 I’m currently growing in web development & python<br>⚡ Fun fact -> I like pineapple on pizza! <br>🎵🏃‍♂️‍➡️ I enjoy listening to music  and running  in my free time!
+🔭 I have created my own website <a href="https://ethangreatorex.github.io/ReactPortfolio/" target="_blank">website</a><br>🌱 I’m currently growing in web development & python<br>⚡ Fun fact -> I like pineapple on pizza! <br>🎵🏃‍♂️‍➡️ I enjoy listening to music  and running  in my free time!
 
 # 🚀 My website
 🚀 Check out my website to learn a bit more about me! 
