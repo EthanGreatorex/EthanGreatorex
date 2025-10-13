@@ -1,5 +1,6 @@
 
-![favourite_outside_spot_cropped](https://github.com/user-attachments/assets/5e5feeb1-e78c-44fd-957c-179e92c86e02)
+![2BBA2BCC-AB79-4D5E-AC62-40BCE401A389_1_105_c](https://github.com/user-attachments/assets/19ad0cb8-5dc0-4a43-b285-5f6c1ab2e860)
+
 
 
 # 💫 About Me:
