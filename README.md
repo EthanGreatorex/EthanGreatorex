@@ -9,7 +9,7 @@
 
 # 🚀 My website
 🚀 Check out my website to learn a bit more about me! 
-<a href="https://ethangreatorex.github.io/ReactPortfolio/">Ethan Greatorex</a>
+<a href="https://ethangreatorex.co.uk/">Ethan Greatorex</a>
 
 # 📕 Knowledge:
 I have touched slightly on Flask and web scraping <br>
