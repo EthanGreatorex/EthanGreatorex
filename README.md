@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🔭 I have created my own website that outlines my journey as well as achievements & projects <a href="https://ethangreatorex.github.io/ReactPortfolio/" target="_blank">click me</a><br>🌱 I’m currently growing in web development & python<br>⚡ Fun fact -> I like pineapple on pizza! <br>🎵🏃‍♂️‍➡️ I enjoy listening to music  and running  in my free time!
+🔭 I have created my own website that outlines my journey as well as achievements & projects <a href="https://ethangreatorex.co.uk" target="_blank">click me</a><br>🌱 I’m currently growing in web development & python<br>⚡ Fun fact -> I like pineapple on pizza! <br>🎵🏃‍♂️‍➡️ I enjoy listening to music  and running  in my free time!
 
 # 🚀 My website
 🚀 Check out my website to learn a bit more about me! 
