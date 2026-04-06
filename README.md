@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🔭 I have created my own website that outlines my journey as well as achievements & projects <a href="https://ethangreatorex.co.uk" target="_blank">click me</a><br>🌱 I’m currently growing in web development & python<br>⚡ Fun fact -> I like pineapple on pizza! <br>🎵🏃‍♂️‍➡️ I enjoy listening to music  and running  in my free time!
+🔭 I have created my own website that outlines my journey as well as achievements & projects <a href="https://ethangreatorex.co.uk" target="_blank">click me</a><br>🌱 I’m currently growing in web development & python<br>⚡ Fun fact -> I like pineapple on pizza! 
 
 # 🚀 My website
 🚀 Check out my website to learn a bit more about me! 
@@ -15,7 +15,7 @@
 I have touched slightly on Flask and web scraping <br>
 I have used Python for 5 years as of 2025<br>
 I have been using Js/Html/Css for 3 years<br>
-I have knowledge in React & Typescript and have created multiple projects using it (e.g., my portfolio webite)
+I have knowledge in React & Typescript and have created multiple projects using it (e.g., my portfolio webite, Twitter Clone)
 
 
 ## 🌐 Socials:
