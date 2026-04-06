@@ -1,17 +1,18 @@
 
-![2BBA2BCC-AB79-4D5E-AC62-40BCE401A389_1_201_a](https://github.com/user-attachments/assets/4af64229-f353-4812-a606-2a5b6f953c82)
+![beach-me (1) - Copy](https://github.com/user-attachments/assets/5f087e81-0335-4510-ac84-7749f52cbb0b)
 
 
 
 
-# 💫 About Me:
-🔭 I have created my own website that outlines my journey as well as achievements & projects <a href="https://ethangreatorex.co.uk" target="_blank">click me</a><br>🌱 I’m currently growing in web development & python<br>⚡ Fun fact -> I like pineapple on pizza! 
 
-# 🚀 My website
-🚀 Check out my website to learn a bit more about me! 
+#  About Me:
+🔭 I have created my own website that outlines my journey as well as achievements & projects <a href="https://ethangreatorex.co.uk" target="_blank">click me</a><br>🌱 I’m currently growing in web development<br>⚡ Fun fact , I like pineapple on pizza! 
+
+#  My website
+ Check out my website to learn a bit more about me! 
 <a href="https://ethangreatorex.co.uk/">Ethan Greatorex</a>
 
-# 📕 Knowledge:
+#  Knowledge:
 I have touched slightly on Flask and web scraping <br>
 I have used Python for 5 years as of 2025<br>
 I have been using Js/Html/Css for 3 years<br>
