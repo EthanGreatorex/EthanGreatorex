@@ -1,5 +1,6 @@
+<img width="2962" height="2221" alt="IMG_8783" src="https://github.com/user-attachments/assets/8c7e5242-982a-44ae-8ac5-0f8d27ca4f0c" />
 
-![beach-me (1) - Copy](https://github.com/user-attachments/assets/5f087e81-0335-4510-ac84-7749f52cbb0b)
+
 
 
 
