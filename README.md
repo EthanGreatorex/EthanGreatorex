@@ -1,4 +1,4 @@
-<img width="2962" height="2221" alt="IMG_8783" src="https://github.com/user-attachments/assets/8c7e5242-982a-44ae-8ac5-0f8d27ca4f0c" />
+<img width="2962" height="1000" alt="IMG_8783" src="https://github.com/user-attachments/assets/8c7e5242-982a-44ae-8ac5-0f8d27ca4f0c" />
 
 
 
@@ -7,18 +7,11 @@
 
 
 #  About Me:
-🔭 I have created my own website that outlines my journey as well as achievements & projects <a href="https://ethangreatorex.co.uk" target="_blank">click me</a><br>🌱 I’m currently growing in web development<br>⚡ Fun fact , I like pineapple on pizza! 
+🔭 I have created my own website that outlines my journey as well as achievements & projects <a href="https://ethangreatorex.co.uk" target="_blank">click me</a><br>🌱 Web Developer @ Bloc Digital<br>🍕 Fun fact , I love pineapple on pizza! 
 
 #  My website
- Check out my website to learn a bit more about me! 
-<a href="https://ethangreatorex.co.uk/">Ethan Greatorex</a>
-
-#  Knowledge:
-I have touched slightly on Flask and web scraping <br>
-I have used Python for 5 years as of 2025<br>
-I have been using Js/Html/Css for 3 years<br>
-I have knowledge in React & Typescript and have created multiple projects using it (e.g., my portfolio webite, Twitter Clone)
-
+ Check out my website to learn a bit more about me and my skills! 
+<a href="https://ethangreatorex.co.uk/" target="_blank">Ethan Greatorex</a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ethan-greatorex-240983327/) 
